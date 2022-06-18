@@ -1,1 +1,2 @@
-# 1Venture_Funding_Deep_Learning
+# Deep Learning exercises
+
